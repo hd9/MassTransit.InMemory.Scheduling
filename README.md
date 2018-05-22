@@ -1,7 +1,3 @@
-Next MT Project:
-
-MassTransit.InMemory.Scheduling
-
 # MassTransit.InMemory.Scheduling
 Demo project to test MassTransit's Scheduling InMemory functionality using RabbitMQ in a .Net Core console app
 
