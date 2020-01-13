@@ -1,9 +1,7 @@
 # MassTransit.InMemory.Scheduling
-Demo project to test MassTransit's Scheduling InMemory functionality using RabbitMQ in a .NET Core console app.
+Demo project to test [MassTransit's InMemory Scheduled Messaging using RabbitMQ and .NET Core](https://blog.hildenco.com/2018/08/exploring-masstransit-inmemory.html).
 
-See: [Exploring MassTransit InMemory Scheduled Messaging using RabbitMQ and .NET Core](https://blog.hildenco.com/2018/08/exploring-masstransit-inmemory.html)
-
-To run:
+## Running
 
 	$ dotnet restore && dotnet build && dotnet run
 
